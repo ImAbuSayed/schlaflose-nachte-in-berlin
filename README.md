@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schlaflose-nachte-in-berlin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Schlaflose Nächte in Berlin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schlaflose-nachte-in-berlin/) |
+| **Get License** | [Music Rights & Licensing for Schlaflose Nächte in Berlin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schlaflose-nachte-in-berlin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die ganze Stadt schläft, doch wir zwei brennen lichterloh
+> Schlaflose Nächte in Berlin, ich brauche dich so
+> Dein Blick trifft mich tief, tief wie mein 808-Flow
+> Komm, steig in den Wagen, wir flüchten ins Nirgendwo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
