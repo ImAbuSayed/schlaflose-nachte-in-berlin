@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Schlaflose Nächte in Berlin
+
+This log tracks the cryptographic history and versioning for the song **Schlaflose Nächte in Berlin** (schlaflose-nachte-in-berlin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T03:39:09.495592 | `v1` | `35fd542da858b9a64f25c34ee0384aef9443e7a84f0b2b95363eb5463ad3d343` | `ac3ffbf4af3c05dd90503b1af9aa0e026a8cd1bee28c9b68d4f281800e3c9773` | `2026-06-30_schlaflose-nachte-in-berlin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
