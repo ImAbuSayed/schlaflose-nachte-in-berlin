@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schlaflose-nachte-in-berlin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Schlaflose Nächte in Berlin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schlaflose-nachte-in-berlin/) |
+| **Get License** | [Get License For Schlaflose Nächte in Berlin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schlaflose-nachte-in-berlin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4641)
 
 ---
 
